@@ -7,10 +7,8 @@
     "async": "^3.2.0",
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.5",
-    "form-data": "^3.0.0",
     "lodash": "^4.17.20",
     "lowdb": "^1.0.0",
-    "querystring": "^0.2.0",
-    "scrape-it": "^5.2.4"
+    "querystring": "^0.2.0"
   }
 }
